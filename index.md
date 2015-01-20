@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-We discuss literature centered on quantitative genetics including animal breeding, plant breeding, and human genetics. 
+We discuss literature centered on quantitative genetics including animal breeding, plant breeding, and human genetics. Please subscribe to our RSS feed to follow if you are interested.  
 
 ### Posts [![](images/feed-icon-14x14.png)](rss.xml)
 
